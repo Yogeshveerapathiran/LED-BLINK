@@ -71,7 +71,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 8. Save the configuration (`Ctrl + S`) – the base C program will be generated automatically.
-<img width="1919" height="977" alt="Screenshot 2025-10-29 114406" src="https://github.com/user-attachments/assets/bb1edaf6-2d2c-40ed-9fc2-9aaf68d7e1c9" />
+<img width="1244" height="625" alt="image" src="https://github.com/user-attachments/assets/2b9572d9-6651-4e5f-ac69-67e6b4ccdf89" />
+
 
 
  

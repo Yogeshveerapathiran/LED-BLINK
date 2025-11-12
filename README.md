@@ -87,7 +87,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 11. Link the **HEX file** using the post-build process.
-<img width="430" height="401" alt="Screenshot 2025-10-29 112055" src="https://github.com/user-attachments/assets/cd68615e-8d56-4e34-bcd3-c2bddcc40ddd" />
+![WhatsApp Image 2025-11-12 at 08 59 00_dbc5d4f7](https://github.com/user-attachments/assets/ffbcfdb3-898a-4341-bb91-f3fb1f96c19f)
+
 
 
 
